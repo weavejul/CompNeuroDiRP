@@ -19,12 +19,13 @@ For now, feel free to check out the [Resources](./Resources) folder for some pap
 ### A Little About Me:
 
 I’m a fourth-year student double majoring in Computer Science and the Neuroscience Scholars Program with a minor in Business. I’m a founding member of the DMIC lab’s AI and neuroimaging team and currently serve as the Research and Development Lead at Longhorn Neurotech. I plan to pursue a PhD focused on using brain organoids as models for brain-computer interfaces (BCI). In my free time, I produce music and rock climb!
-
-![Picture of Julian Weaver that totally isn't edited](.misc/realphoto.jpeg | width = "100")
+<p align="center">
+<img src=".misc/realphoto.jpeg" alt="Picture of Julian Weaver that totally isn't edited" width="200" height="auto">
+</p>
 
 ---
 
-### Calendar:
+### Calendar 📅:
 
 - **[DATE TBD]**: The first day of the group will be a basic introduction to neuroscience (behavior of individual neurons and neurons in groups). We will also pick the topic for the next meeting.
 
