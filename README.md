@@ -10,7 +10,7 @@ This journal club will run in tandem with *Longhorn Neurotech's Journal Club*, w
 
 ---
 
-### **ALL STRUCTURE SUBJECT TO CHANGE**
+### **STRUCTURE SUBJECT TO CHANGE**
 
 This DiRP group will be structured as a journal club. Once a week, we will meet to discuss papers/videos about a specified topic in computational neuroscience. These topics will be influenced by the interests of group members. I'm always open to exploring new areas, so suggestions for topics are highly encouraged!
 
