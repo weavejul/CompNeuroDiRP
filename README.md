@@ -8,18 +8,19 @@ That includes topics like engrammatic representations of memory, the workings of
 
 ---
 
-### A Little About Me:
-
-I’m a fourth-year student double majoring in Computer Science and the Neuroscience Scholars Program with a minor in Business. I’m a founding member of the DMIC lab’s AI and neuroimaging team and currently serve as the Research and Development Lead at Longhorn Neurotech. I plan to pursue a PhD focused on using brain organoids as models for brain-computer interfaces (BCI). In my free time, I produce music and rock climb!
-
-
----
-
 ### **ALL STRUCTURE SUBJECT TO CHANGE**
 
 This DiRP group will be structured as a journal club. Once a week, we will meet to discuss papers/videos about a specified topic in computational neuroscience. These topics will be influenced by the interests of group members. I'm always open to exploring new areas, so suggestions for topics are highly encouraged!
 
-For now, feel free to check out the [Resources](./Resources) folder for some papers we may be going over! Some of these topics are highly complimented by [Artem Kirsanov's YouTube channel](https://www.youtube.com/@ArtemKirsanov/featured), so I recommend watching some of these as well (they have very nice animation too).
+For now, feel free to check out the [Resources](./Resources) folder for some papers we may be going over! Some of these topics are highly complimented by [Artem Kirsanov's YouTube channel](https://www.youtube.com/@ArtemKirsanov/featured), so I recommend watching some of these as well (they have very nice animations too).
+
+---
+
+### A Little About Me:
+
+I’m a fourth-year student double majoring in Computer Science and the Neuroscience Scholars Program with a minor in Business. I’m a founding member of the DMIC lab’s AI and neuroimaging team and currently serve as the Research and Development Lead at Longhorn Neurotech. I plan to pursue a PhD focused on using brain organoids as models for brain-computer interfaces (BCI). In my free time, I produce music and rock climb!
+
+![Picture of Julian Weaver that totally isn't edited](.misc/realphoto.jpeg | width = "100")
 
 ---
 
