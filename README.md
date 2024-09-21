@@ -36,8 +36,12 @@ I’m a fourth-year student double majoring in Computer Science and the Neurosci
 
 ### Calendar 📅:
 
-- **[DATE TBD]**: The first day of the group will be a basic introduction to neuroscience (behavior of individual neurons and neurons in groups). We will also pick the topic for the next meeting.
-
+- **9/20:**
+  - Will be a basic introduction to neuroscience (behavior of individual neurons and neurons in groups). We will also pick the topic for the next meeting.
+  - <a href = "https://docs.google.com/presentation/d/1rGYJxhl2N0D2FNJOnoF-xJ-zQfPaJh2zwuNdMoSgMsI/edit?usp=sharing">Link to slides</a>
+- **9/27:**
+  - We will go over [this paper](./Resources), in which a group of biological neurons on a dish are trained to play Pong!
+  - The paper is dense, so [here's an article](https://www.the-scientist.com/how-neurons-in-a-dish-learned-to-play-pong-70613) which breaks it down in more simple terms. 
 ---
 
 Happy to have you here!
