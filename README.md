@@ -46,7 +46,7 @@ I’m a fourth-year student double majoring in Computer Science and the Neurosci
 - **10/4:**
   - We will go over the engramatic representation of memory- that is, how our memories are physically stored, accessed, and manipulated in the brain.
   - The paper [**The 21st Century Engram**](./Resources/Papers/The21stCenturyEngram.pdf) is a good overview of the current understanding of memory.
-  - And here is a wonderful [youtube video]([https://youtu.be/X5trRLX7PQY?si=1ofxL2JtGfRwC-gI](https://youtu.be/X5trRLX7PQY?si=dJ873_7poR_nqoEj)) that also goes over the basics of memory storage. I highly recommend watching it!
+  - And here is a wonderful [youtube video](https://youtu.be/X5trRLX7PQY?si=1ofxL2JtGfRwC-gI](https://youtu.be/X5trRLX7PQY?si=dJ873_7poR_nqoEj)) that also goes over the basics of memory storage. I highly recommend watching it!
 ---
 
 Happy to have you here!
