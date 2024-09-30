@@ -43,7 +43,10 @@ I’m a fourth-year student double majoring in Computer Science and the Neurosci
   - We will go over [this paper](./Resources/Papers/DishBrainPong.pdf), in which a group of biological neurons on a dish are trained to play Pong! It's an example of "wetware", a new model of computation using biological components.
   - The paper is super dense, so [here's an article](https://www.the-scientist.com/how-neurons-in-a-dish-learned-to-play-pong-70613) which breaks it down into simpler terms!
   - <a href = "https://docs.google.com/presentation/d/1iz_SYq0NYGrq0YfkLSErbl9jSAySaIkDWhEURsWTnTs/edit?usp=sharing">Link to slides</a>
-- **10/4**
+- **10/4:**
+  - We will go over the engramatic representation of memory- that is, how our memories are physically stored, accessed, and manipulated in the brain.
+  - The paper [**The 21st Century Engram**](./Resources/Papers/The21stCenturyEngram.pdf) is a good overview of the current understanding of memory.
+  - And here is a wonderful [youtube video](https://youtu.be/X5trRLX7PQY?si=1ofxL2JtGfRwC-gI) that also goes over the basics of memory storage. I highly recommend watching it!
 ---
 
 Happy to have you here!
