@@ -50,7 +50,7 @@ I’m a fourth-year student double majoring in Computer Science and the Neurosci
   - <a href = "https://docs.google.com/presentation/d/1DnlYgj_ugCe51C9Y0mnG64ZxvuUtP56IDNZAvMtNsDo/edit?usp=sharing">*Link to slides*</a>
 - **10/11:**
   - We will go over the work of recent Physics nobel prize winners Hopfield and Hinton! As neuroscientists/computer scientists, its a bit strange that they were awarded the physics prize, but Hopfield Networks and Boltzman Networks are foundational to AI (oh, and backpropogation. Hinton helped write the paper on that too).
-  - The paper [**The 21st Century Engram**](./Resources/Papers/HopfieldNetworks.pdf) is the original paper from 1982 written by John Hopfield describing the "Hopfield Network."
+  - The [**paper**](./Resources/Papers/HopfieldNetworks.pdf) is the work John Hopfield published in 1982 describing the "Hopfield Network," for which he just won a Nobel prize.
   - And here is a good [**youtube video**](https://www.youtube.com/watch?v=piF6D6CQxUw) explaining the basics of the network.
 ---
 
