@@ -48,6 +48,10 @@ I’m a fourth-year student double majoring in Computer Science and the Neurosci
   - The paper [**The 21st Century Engram**](./Resources/Papers/The21stCenturyEngram.pdf) is a good overview of the current understanding of memory.
   - And here is a wonderful [**youtube video**](https://youtu.be/X5trRLX7PQY?si=1ofxL2JtGfRwC-gI](https://youtu.be/X5trRLX7PQY?si=dJ873_7poR_nqoEj)) that also goes over the basics of memory storage. I highly recommend watching it!
   - <a href = "https://docs.google.com/presentation/d/1DnlYgj_ugCe51C9Y0mnG64ZxvuUtP56IDNZAvMtNsDo/edit?usp=sharing">*Link to slides*</a>
+- **10/11:**
+  - We will go over the work of recent Physics nobel prize winners Hopfield and Hinton! As neuroscientists/computer scientists, its a bit strange that they were awarded the physics prize, but Hopfield Networks and Boltzman Networks are foundational to AI (oh, and backpropogation. Hinton helped write the paper on that too).
+  - The paper [**The 21st Century Engram**](./Resources/Papers/HopfieldNetworks.pdf) is the original paper from 1982 written by John Hopfield describing the "Hopfield Network."
+  - And here is a good [**youtube video**](https://www.youtube.com/watch?v=piF6D6CQxUw) explaining the basics of the network.
 ---
 
 Happy to have you here!
