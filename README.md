@@ -52,6 +52,7 @@ I’m a fourth-year student double majoring in Computer Science and the Neurosci
   - We will go over the work of recent Physics nobel prize winners Hopfield and Hinton! As neuroscientists/computer scientists, its a bit strange that they were awarded the physics prize, but Hopfield Networks and Boltzman Networks are foundational to AI (oh, and backpropogation. Hinton helped write the paper on that too).
   - The [**paper**](./Resources/Papers/HopfieldNetworks.pdf) is the work John Hopfield published in 1982 describing the "Hopfield Network," for which he just won a Nobel prize.
   - And here is a good [**youtube video**](https://www.youtube.com/watch?v=piF6D6CQxUw) explaining the basics of the network.
+  - <a href = "https://docs.google.com/presentation/d/1kJrykHlhN18VeOhUrec_wksKW7xvblnEbsVh6gKUCoE/edit?usp=sharing">*Link to slides*</a>
 ---
 
 Happy to have you here!
