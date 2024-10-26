@@ -53,6 +53,12 @@ I’m a fourth-year student double majoring in Computer Science and the Neurosci
   - The [**paper**](./Resources/Papers/HopfieldNetworks.pdf) is the work John Hopfield published in 1982 describing the "Hopfield Network," for which he just won a Nobel prize.
   - And here is a good [**youtube video**](https://www.youtube.com/watch?v=piF6D6CQxUw) explaining the basics of the network.
   - <a href = "https://docs.google.com/presentation/d/1kJrykHlhN18VeOhUrec_wksKW7xvblnEbsVh6gKUCoE/edit?usp=sharing">*Link to slides*</a>
+- **10/18:**
+  - No meeting (I'm out of town!)
+- **10/25:**
+  - We will go over the [**Tolman-Eichanbaum machine**](./Resources/Papers/Tolman-Eichenbaum-Machine.pdf)! This is an AI representation of our own Hippocampal formation (Entorhinal Cortex + Hippocampus) and proves a valuable tool for understanding how our own memory works.
+  - Here is the [video](https://youtu.be/cufOEzoVMVA?si=u0HbBV30mBRnR5GQ) we went over, and here is the [Part 1](https://youtu.be/9qOaII_PzGY?si=-R0TiIzgrrqFXpzY) that we skipped over.
+  - <a href = "https://docs.google.com/presentation/d/1EBR87amddD_0CPwXSi67xEkY7R1iZ821CUHM2U2Bb84/edit?usp=sharing">*Link to slides*</a>
 ---
 
 Happy to have you here!
