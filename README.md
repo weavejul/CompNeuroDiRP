@@ -61,7 +61,7 @@ I’m a fourth-year student double majoring in Computer Science and the Neurosci
   - <a href = "https://docs.google.com/presentation/d/1EBR87amddD_0CPwXSi67xEkY7R1iZ821CUHM2U2Bb84/edit?usp=sharing">*Link to slides*</a>
 - **11/1:**
   - We will go over a recent paper from UT's own Huth Lab: [**Semantic reconstruction of continuous language from non-invasive brain recordings**](./Resources/Papers/SemanticReconstructionFromBrainRecordings.pdf). This is a paper that shows an applied use of computational neuroscience- "mind reading."
-
+  - [*Link to slides*](https://docs.google.com/presentation/d/1EBR87amddD_0CPwXSi67xEkY7R1iZ821CUHM2U2Bb84/edit?usp=sharing)
 ---
 
 Happy to have you here!
