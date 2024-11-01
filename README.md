@@ -59,6 +59,9 @@ I’m a fourth-year student double majoring in Computer Science and the Neurosci
   - We will go over the [**Tolman-Eichanbaum machine**](./Resources/Papers/Tolman-Eichenbaum-Machine.pdf)! This is an AI representation of our own Hippocampal formation (Entorhinal Cortex + Hippocampus) and proves a valuable tool for understanding how our own memory works.
   - Here is the [video](https://youtu.be/cufOEzoVMVA?si=u0HbBV30mBRnR5GQ) we went over, and here is the [Part 1](https://youtu.be/9qOaII_PzGY?si=-R0TiIzgrrqFXpzY) that we skipped over.
   - <a href = "https://docs.google.com/presentation/d/1EBR87amddD_0CPwXSi67xEkY7R1iZ821CUHM2U2Bb84/edit?usp=sharing">*Link to slides*</a>
+- **11/1:**
+  - We will go over a recent paper from UT's own Huth Lab: [**Semantic reconstruction of continuous language from non-invasive brain recordings**](./Resources/Papers/SemanticReconstructionFromBrainRecordings.pdf). This is a paper that shows an applied use of computational neuroscience- "mind reading."
+
 ---
 
 Happy to have you here!
