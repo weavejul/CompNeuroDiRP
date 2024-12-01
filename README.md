@@ -62,6 +62,10 @@ I’m a fourth-year student double majoring in Computer Science and the Neurosci
 - **11/1:**
   - We will go over a recent paper from UT's own Huth Lab: [**Semantic reconstruction of continuous language from non-invasive brain recordings**](./Resources/Papers/SemanticReconstructionFromBrainRecordings.pdf). This is a paper that shows an applied use of computational neuroscience- "mind reading."
   - [*Link to slides*](https://docs.google.com/presentation/d/1EBR87amddD_0CPwXSi67xEkY7R1iZ821CUHM2U2Bb84/edit?usp=sharing)
+- **11/8:**
+  - No meeting (Exams- Good luck!)
+- **11/15:**
+  - We will explore the tools of neurotechnology! There will be no paper or slides today, simply a live demonstration of a graphene-tip dry EEG cap and a Transcutaneous Electrical Nerve Stimulation (TENS) unit, showcasing their functionality.
 ---
 
 Happy to have you here!
