@@ -25,7 +25,7 @@ For now, feel free to check out the [Resources](./Resources) folder for some pap
 
 ### A Little About Me:
 
-I’m a fourth-year student double majoring in Computer Science and the Neuroscience Scholars Program with a minor in Business. I’m a founding member of the DMIC lab’s AI and neuroimaging team and currently serve as the Research and Development Lead at Longhorn Neurotech. I plan to pursue a PhD focused on using brain organoids as models for brain-computer interfaces (BCI). In my free time, I produce music and rock climb!
+I’m a fourth-year student double majoring in Computer Science and the Neuroscience Scholars Program with a minor in Business. I’m a founding member of the DMIC lab’s AI and neuroimaging team and currently serve as the Director of Research and Development at Longhorn Neurotech. I plan to pursue a PhD focused on biologically-inspired AI, and using brain organoids as models for brain-computer interfaces (BCI). In my free time, I produce music and rock climb!
 <p align="center">
   <a href = "https://lhneurotech.com/index.html">
     <img src=".misc/realphoto.jpeg" alt="Picture of Julian Weaver that totally isn't edited. Links to LHNT page (which is a WIP)" width="200" height="auto">
