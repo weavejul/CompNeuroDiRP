@@ -6,7 +6,7 @@ That includes topics like engrammatic representations of memory, the workings of
 
 ***NO background in biology required!***
 
-This journal club will run in tandem with *Longhorn Neurotech's Journal Club*, which I am also leading.
+This journal club will run in parallel with *Longhorn Neurotech's Journal Club*, which I am also leading.
 
 ---
 
